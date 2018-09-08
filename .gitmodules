@@ -1,0 +1,3 @@
+[submodule "pymisc"]
+	path = pymisca
+	url = https://github.com/shouldsee/pymisc
